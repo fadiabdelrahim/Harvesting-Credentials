@@ -2,8 +2,15 @@
 
 ## Introduction
 
-- Kali Linux (linux distribution designed for digital forensics and penetration testing)
-- Zphisher (a powerful open-source Phishing tool)
+In todays digital landscape, the threat of cyber-attacks, particularly through phishing, has become a signigicant concern for individuals and organizations alike. Phishing attacks, which often involve tricking individuals into revealing sensiitive information such as login credentaisl, continue to be a prevalant method emplyed by cybercriminals. 
+
+This project delves into a specific instance of phishing simulation, showacsing teh user of sophisticated tools and techniques to harvest credentials. It aims to provide an in-depth analysis of a phishing scenario, where a LinkedIn-themed phishing attack was deployed to engage a target through professional networking channel. The choice of LinkedIn as the phishing template was strategic, given the platforms credibility and the likelihood of successful interaction by the target. 
+
+Architecture of Harvesting Credentials
+
+- Kali Linux - linux distribution designed for digital forensics and penetration testing
+- Zphisher - a powerful open-source Phishing tool
+- The Socail-Engineer Toolkit (SET) - an open-source penetration testing framework designed for social engineering.
 
 
 ## Choice of a Web Template
