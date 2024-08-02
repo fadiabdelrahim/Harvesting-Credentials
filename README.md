@@ -1,4 +1,4 @@
-# <p align="center"> Harvesting-Credentials
+# <p align="center"> Harvesting Credentials
 
 ## Introduction
 
@@ -6,7 +6,7 @@ In todays digital landscape, the threat of cyber-attacks, particularly through p
 
 This project delves into a specific instance of phishing simulation, showacsing teh user of sophisticated tools and techniques to harvest credentials. It aims to provide an in-depth analysis of a phishing scenario, where a LinkedIn-themed phishing attack was deployed to engage a target through professional networking channel. The choice of LinkedIn as the phishing template was strategic, given the platforms credibility and the likelihood of successful interaction by the target. 
 
-Architecture of Harvesting Credentials
+***Architecture of Harvesting Credentials***
 
 - Kali Linux - linux distribution designed for digital forensics and penetration testing
 - Zphisher - a powerful open-source Phishing tool
@@ -25,6 +25,8 @@ The LinkedIn template is chosen for its relevance to the pretexting scenario, wh
 
 <p align="center"><img src=images/Picture2.png></p>
 
+---
+
 ***Step 2: Zphisher setup for LinkedIn Phishing page***
 
 <div align="center">Select option [14] LinkedIn</div>
@@ -42,6 +44,8 @@ The LinkedIn template is chosen for its relevance to the pretexting scenario, wh
 <div align="center">Copy URL 1 Link to use in SET to send the email</div>
 
 <p align="center"><img src=images/Picture6.png></p>
+
+---
 
 ***Step 3: The Social-Engineer ToolKit (SET) setup to craft and send the phishing email***
 
@@ -67,7 +71,9 @@ The LinkedIn template is chosen for its relevance to the pretexting scenario, wh
 
 <div align="center">Fill in all the information for the email</div>
 
--------
+<p align="center"><img src=images/Picture12.jpg></p>
+
+---
 
 ***Step 4: Target View***
 
@@ -77,7 +83,7 @@ The LinkedIn template is chosen for its relevance to the pretexting scenario, wh
 
 <div align="center">Email View with phishing link attached</div>
 
-------
+<p align="center"><img src=images/Picture14.png></p>
 
 <div align="center">Phishing LinkedIn page once the link is clicked</div>
 
@@ -86,6 +92,8 @@ The LinkedIn template is chosen for its relevance to the pretexting scenario, wh
 <div align="center">Target enters credential to login</div>
 
 <p align="center"><img src=images/Picture16.png></p>
+
+---
 
 ***Step 5: Attacker View***
 
@@ -104,6 +112,7 @@ The LinkedIn template is chosen for its relevance to the pretexting scenario, wh
 <div align="center">Display usernames.dat content for harvested username and password</div>
 
 <p align="center"><img src=images/Picture20.png></p>
+
 
 ## Preventive Measures
 
