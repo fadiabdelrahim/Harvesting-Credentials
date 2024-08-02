@@ -8,9 +8,9 @@ This project delves into a specific instance of phishing simulation, showacsing 
 
 ***Architecture of Harvesting Credentials***
 
-- Kali Linux - linux distribution designed for digital forensics and penetration testing
-- Zphisher - a powerful open-source Phishing tool
-- The Socail-Engineer Toolkit (SET) - an open-source penetration testing framework designed for social engineering.
+- ***Kali Linux*** - linux distribution designed for digital forensics and penetration testing
+- ***Zphisher*** - a powerful open-source Phishing tool
+- ***The Socail-Engineer Toolkit (SET)*** - an open-source penetration testing framework designed for social engineering.
 
 
 ## Choice of a Web Template
@@ -83,7 +83,7 @@ The LinkedIn template is chosen for its relevance to the pretexting scenario, wh
 
 <div align="center">Email View with phishing link attached</div>
 
-<p align="center"><img src=images/Picture14.png></p>
+<p align="center"><img src=images/Picture14.jpg></p>
 
 <div align="center">Phishing LinkedIn page once the link is clicked</div>
 
@@ -116,10 +116,10 @@ The LinkedIn template is chosen for its relevance to the pretexting scenario, wh
 
 ## Preventive Measures
 
-- <b>Verify Email Source:</b> Always check the sender's email address for authenticity. Be cautious of emails from unfamiliar sources or slightly alter known addresses.
-- <b>Look for Formatting and Language errors:</b> Phishing emails often contain formatting issues or language errors. Attention to these details can be crucial indicator of a phishing attempt.
-- <b>Avoid Clicking on Suspicious Links:</b> Be careful of clicking on links in unsolicited emails, especially those that prmpt for login credentials.
-- <b>Use of Two-Factor-Authentication (2FA):</b> Implementing 2FA can add an extra layer of security, making it harder for attackers to gain access even if credentials are compromised.
+- ***Verify Email Source:*** Always check the sender's email address for authenticity. Be cautious of emails from unfamiliar sources or slightly alter known addresses.
+- ***Look for Formatting and Language errors:*** Phishing emails often contain formatting issues or language errors. Attention to these details can be crucial indicator of a phishing attempt.
+- ***Avoid Clicking on Suspicious Links:*** Be careful of clicking on links in unsolicited emails, especially those that prmpt for login credentials.
+- ***Use of Two-Factor-Authentication (2FA):*** Implementing 2FA can add an extra layer of security, making it harder for attackers to gain access even if credentials are compromised.
 
 ## Conclusion
 
