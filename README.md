@@ -1,4 +1,4 @@
-# <p align="center"> Harvesting Credentials
+# <div align="center"> Harvesting Credentials</div>
 
 ## Introduction
 
@@ -20,97 +20,59 @@ The LinkedIn template is chosen for its relevance to the pretexting scenario, wh
 ## Step-by-Step Deployment
 
 ***Step 1: Zphisher installation for Linux***
-
 <p align="center"><img src=images/Picture1.png></p>
-
 <p align="center"><img src=images/Picture2.png></p>
 
 ---
 
 ***Step 2: Zphisher setup for LinkedIn Phishing page***
-
 <div align="center">Select option [14] LinkedIn</div>
-
 <p align="center"><img src=images/Picture3.png></p>
-
 <div align="center">Select option [2] Cloudflard a port forwarding service</div>
-
 <p align="center"><img src=images/Picture4.png></p>
-
 <div align="center">Select option N for do you want a custom port</div>
-
 <p align="center"><img src=images/Picture5.png></p>
-
 <div align="center">Copy URL 1 Link to use in SET to send the email</div>
-
 <p align="center"><img src=images/Picture6.png></p>
 
 ---
 
 ***Step 3: The Social-Engineer ToolKit (SET) setup to craft and send the phishing email***
-
 <div align="center">Run SET</div>
-
 <p align="center"><img src=images/Picture7.png></p>
-
 <div align="center">Select option 1 - SOcial-Engineering Attacks from the menu</div>
-
 <p align="center"><img src=images/Picture8.png></p>
-
 <div align="center">Select option 5 - Mass Mailer Attack from the menu</div>
-
 <p align="center"><img src=images/Picture9.png></p>
-
 <div align="center">Select option 1 - E-Mail Attack Single Email Address</div>
-
 <p align="center"><img src=images/Picture10.png></p>
-
 <div align="center">Select option 2 - One-Time Use Email Template</div>
-
 <p align="center"><img src=images/Picture11.png></p>
-
 <div align="center">Fill in all the information for the email</div>
-
-<p align="center"><img src=images/Picture12.jpg></p>
+<p align="center"><img src=images/Picture12.png></p>
 
 ---
 
 ***Step 4: Target View***
-
 <div align="center">Email inbox view of target</div>
-
 <p align="center"><img src=images/Picture13.png></p>
-
 <div align="center">Email View with phishing link attached</div>
-
-<p align="center"><img src=images/Picture14.jpg></p>
-
+<p align="center"><img src=images/Picture14.png></p>
 <div align="center">Phishing LinkedIn page once the link is clicked</div>
-
 <p align="center"><img src=images/Picture15.png></p>
-
 <div align="center">Target enters credential to login</div>
-
 <p align="center"><img src=images/Picture16.png></p>
 
 ---
 
 ***Step 5: Attacker View***
-
 <div align="center">Review Zphisher for harvested credentials</div>
-
 <p align="center"><img src=images/Picture17.png></p>
-
-<div align="center">Review auth/ in Zphisher for credentials</div>
-
+<div align="center">Review /auth in Zphisher for credentials</div>
 <p align="center"><img src=images/Picture18.png></p>
-
 <div align="center">Display ip.txt content for harvested IP address</div>
-
 <p align="center"><img src=images/Picture19.png></p>
-
 <div align="center">Display usernames.dat content for harvested username and password</div>
-
 <p align="center"><img src=images/Picture20.png></p>
 
 
