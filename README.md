@@ -1,3 +1,5 @@
+***DISCLAIMER:*** This is intended for educational purpose. Performing hacking attempts on computers that you do not own (without permission) is illegal! Do not attempt to gain access to devices that you do not own.
+
 # <div align="center"> Harvesting Credentials</div>
 
 ## Introduction
@@ -86,3 +88,7 @@ The LinkedIn template is chosen for its relevance to the pretexting scenario, wh
 ## Conclusion
 
 This project provided practical experience intergrating two different tools - Zphisher and SET - for an effective phishing attack. Zphisher was instrumental in creating a convincing LinkedIn phishing page that could clone the actual LinkedIn login page, allowing successful credential harvesting. SET's Mass Mailer Attack feature was utilized to distribute the phishing email containing the link created by Zphisher. This combination showcased how various tools can be complement each other in a social engineering context.
+
+## Full Disclaimer
+
+Any action and or activities related to the material contained within this repository is solely your responsibility. The misuse of the tools and information in this repo could result in criminal charges being brought against the person in question. The author will not be held responsible in the event any criminal charges are brought against any individuals misusing the tools and information in this repository for malicious purpose or to break the law.
