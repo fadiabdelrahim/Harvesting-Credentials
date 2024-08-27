@@ -12,7 +12,7 @@ This project delves into a specific instance of phishing simulation, showacsing 
 
 - ***Kali Linux*** - linux distribution designed for digital forensics and penetration testing
 - ***Zphisher*** - a powerful open-source Phishing tool
-- ***The Socail-Engineer Toolkit (SET)*** - an open-source penetration testing framework designed for social engineering.
+- ***The Social-Engineer Toolkit (SET)*** - an open-source penetration testing framework designed for social engineering.
 
 
 ## Choice of a Web Template
